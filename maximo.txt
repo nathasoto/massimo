@@ -11,6 +11,7 @@
     |     /\'-'      /
 jgs '.___.\   _.--;'`)
 
+<<<<<<< HEAD
 
 content!!!!!
 
@@ -46,3 +47,10 @@ l   .-~~"-.    /    I
                              \      ]
                               ^._  .^
                                  ~~
+=======
+>>>>>>> refs/remotes/origin/main
+pas content!!!!!
+
+
+on vais faire un conflict 
+>>>>>>> 07ce5fe (conflict)
